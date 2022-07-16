@@ -42,14 +42,22 @@ Ou seja, as finanças decentralizadas vieram como uma otima solucao de como movi
 Foi criado a Purpose,
 
 Uma ótima referencia desse modelo citado é a Layer3 e o Gitcoin, que oferecem diversos gigs para seus usuarios em troca de criptomoedas.
-The categories are: 
-* Building: para aqueles que sabem programar e possuem a capacidade de satisfazer necessidades de engenharia e construção que diversos protocolos pela web3 irão pedir. Um bom entendimento em contratos inteligentes e entre outros conhecimentos de blockchain são necessários para essa categoria.
-* Design: para aqueles que entendem como projetar e montar interfaces, gráficos, protótipos, projeções que organizações por toda blockchain precisam. Sendo necessário um conhecimento em softwares de design como Illustrator, Photoshop, Figma e entre outros.
-* Writing: para qualquer tipo de pessoa que saiba expressar bem e criar um conteúdo didático em sua fala. Essa categoria tem como alvo principal os usuários underbanked
-* Social
+
+### Categories
+To reach a wide range of users from different socioeconomic classes, submissions were divided into 4 simple categories:
+
+* **Building:** for those who know how to program and have the ability to satisfy engineering and construction needs that various web3 protocols will require. A good understanding of smart contracts and among other blockchain knowledge is required for this category.
+* **Design:** for those who understand how to design and build interfaces, graphics, prototypes, projections that organizations across blockchain need. Knowledge of design software such as Illustrator, Photoshop, Figma and others is required.
+* **Writing:** for any type of person who knows how to express well and create didactic content in their speech. This category is mainly targeted at like underbanked users who may not have technical knowledge in design and programming in blockchain systems, but by reading well about organizations, they will be able to express and create text to explain different protocol bases to other people.
+* **Social:** a category that involves marketing and advertising for these organizations. In-depth knowledge will not be necessary for the purpose of the contest to be achieved. Only with a good follower engagement, the user will be able to help different Web3 companies to spread their message through social networks, whether through an explanatory video on TikTok, an animated story on Instagram or a fun thread on Twitter.
 
 ### Contests
-Are simply contests that organizations from all web3 can 
+Are simply contests that organizations from all web3 can create for people to submit. Contests, as the name implies, have a competitive character, ideal for people who know how to perform tasks and gigs very well, but who do not have a good ability to convince.
+
+Every organization must set for each contest:
+* Deadline
+* Number of prizes
+* Value of price in $CELO
 
 ### Projects
 
