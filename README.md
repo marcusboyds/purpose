@@ -57,5 +57,41 @@ For each contest or project approved the user earn experience on the plataform t
 Os links de submissoes sao mostrados apenas apos a expiraçao do prazo, para preservar o espirito competitivo da plataforma.
 
 # User Interface
-![2022-07-16_13-39-49_AdobeExpress](https://user-images.githubusercontent.com/73398891/179364507-264cf51a-2cce-4b7f-8529-37c187288959.gif)
-![2022-07-16_13-39-49_AdobeExpress (1)](https://user-images.githubusercontent.com/73398891/179364573-f1fc4f3c-4990-4b0c-89f4-025d41746b7e.gif)
+## Onboarding
+The main reception explaining the app to the users with a splashcreen too.
+
+![onboarding](https://user-images.githubusercontent.com/73398891/179365029-319f3029-e84e-4023-9844-453a1df1b7a6.gif)
+
+## Home
+Main screen of the app where you can check recommendations and categories for you.
+
+![home](https://user-images.githubusercontent.com/73398891/179365231-89aaa84d-054b-45fa-9dd1-34f5d617c687.gif)
+
+## Contests
+### Main
+
+![contests](https://user-images.githubusercontent.com/73398891/179365345-ff65cc2f-b8a3-4dd6-bb3d-9ae38e0562c2.gif)
+
+### Intern Pages
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/73398891/179365373-c797c063-7166-4391-8412-95d376cbdfdf.png"> <img width="375" alt="image" src="https://user-images.githubusercontent.com/73398891/179365383-5679ec6f-da63-4d8d-9ccb-c09c8e8d0332.png">
+
+## Projects
+
+![projects](https://user-images.githubusercontent.com/73398891/179365515-ec2652a3-68b0-4b72-a777-4816f1813d93.gif)
+
+### Intern Pages
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/73398891/179365455-8f1c6959-b60b-455d-ba9c-962ad70b542e.png">
+
+## Profile
+### Before
+![before](https://user-images.githubusercontent.com/73398891/179365802-198852b5-fe3c-4f4f-ac8f-58eb8aba407e.gif)
+
+### After
+![after](https://user-images.githubusercontent.com/73398891/179365798-de89d404-3bff-40d1-9909-1313ad866c44.gif)
+
+## Organizations
+![organizations](https://user-images.githubusercontent.com/73398891/179366018-265b899f-31ea-4e04-ace5-ba6dbb86aec0.gif)
+
+# User Flow
+## [Open user flow video](https://youtu.be/fHKHkB9ckA4)
+
