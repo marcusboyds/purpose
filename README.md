@@ -12,7 +12,7 @@ Prototypes are divide in two styles, the canonical and the filler. Within Figma,
 ### [Open prototype](https://www.figma.com/proto/7x6rwgFe5h54xAvdTV2zvB/Purpose?node-id=0%3A1&viewport=69%2C229%2C0.08&scaling=scale-down&starting-point-node-id=65%3A1342&show-proto-sidebar=1)
 ![Screenshot_6](https://user-images.githubusercontent.com/73398891/179368216-6ad5d46d-7079-488e-9a87-4fe97c03131a.png)
 
-The canonical prototype shows the main functionality of the project which is to submit a work to a contest.
+The canonical prototype shows the main functionality of the project which is to submit a work to a contest. You can check in this [video](https://youtu.be/fHKHkB9ckA4)
 
 On this screen path we have Edward, a user who is great at writing texts. And as he is a web3 enthusiast, he decided to submit to the Uniswap history article contest. So in this prototype you will see from the sending of the link to the receipt of the prizes.
 
@@ -64,7 +64,7 @@ Every organization must set for each contest:
 * Value of prize in $CELO
 
 ### Projects
-É um tipo de trabalho muito mais completo que precisa de mais habilidade para realizar o objetivo proposto pela a organização, então a recompensa é muito maior. Diferentemente dos concursos, vocÊ primeiro precisa ser aprovado pela organização para submeter o seu trabalho
+It is a much more complete type of work that needs more skill to accomplish the objective proposed by the organization, so the reward is much greater. Unlike contests, you must first be approved by the organization to submit your work.
 
 Every organization must set for each project:
 * Deadline
