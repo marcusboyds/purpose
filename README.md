@@ -53,7 +53,9 @@ For each contest or project approved the user earn experience on the plataform t
 1. Lord of Wild Webs
 
 ### Submission Showing
+
 Os links de submissoes sao mostrados apenas apos a expiraçao do prazo, para preservar o espirito competitivo da plataforma.
 
 # User Interface
 ![2022-07-16_13-39-49_AdobeExpress](https://user-images.githubusercontent.com/73398891/179364507-264cf51a-2cce-4b7f-8529-37c187288959.gif)
+![2022-07-16_13-39-49_AdobeExpress (1)](https://user-images.githubusercontent.com/73398891/179364573-f1fc4f3c-4990-4b0c-89f4-025d41746b7e.gif)
