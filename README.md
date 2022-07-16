@@ -31,17 +31,20 @@ As requested in the issue, it was necessary to make an example prototype/wirefra
 
 And although the "prototype/wireframe" comes first in the issue's headline text, we need to start the project thinking first on the "social impact", thus having a real human-centered design style.
 ## Problem
-Como citado nas paginas institucionais da Celo, 1 a cada 3 pessoas no mundo nao possuem banco, e isso causa um grande problema economico no mundo todo.
+The latest financial inclusion [report](https://www.worldbank.org/en/publication/globalfindex) by the World Bank Group shows that 1.7 billion people are still unbanked.
 
-Com o surgimento da internet e blockchain, essas pessoas agora podem ter diversas formas de transitar o seu dinheiro via financas decentralizadas. Mas apesar de a liquidez estar melhorando para esses usuários, ele ainda precisa ter quantias de dinheiro consideradas grandes (de acordo com usa moeda local)para poder "brincar" dentro das blockchains.
+So with the emergence of the internet and blockchain, these people can now have several ways to transfer their money via decentralized finance. But even though liquidity is improved for these users, they still needs to have large amounts of money (according to their local currency) to “play” within the blockchains.
 
-Ou seja, as finanças decentralizadas vieram como uma otima solucao de como movimentar dinheiro com facilidade, Entao ainda falta um jeito de ajudar nao só os usuarios underbanked, mas como diversos outros tipos de pessoas de variadas classes sociais.
+That is, decentralized finance came as a great solution of how to move money easily, but not how to make money easily. So there is still a way to help not only underbanked users, but also many other types of people from different social classes who need to raise money by doing a great work.
 
 ## Solution
 
-Foi criado a Purpose,
+To change this reality, the Purpose project was created, which is a mobile-first application where organizations focused on blockchains and any type of user meet to do what they do best, work together in design, programming, writing and a lot of activities.
+People at Purpose are encouraged by the prizes that web3 companies offer in contests and projects, this gives a competitive edge that is lacking in many types of tech jobs we have today.
 
-Uma ótima referencia desse modelo citado é a Layer3 e o Gitcoin, que oferecem diversos gigs para seus usuarios em troca de criptomoedas.
+The platform offers the user the opportunity to work and submit only having a cell phone (focused on the Writing and Social categories), which greatly increases the accessibility for people who do not have a computer to have to work. This facility will be made possible by the ultra-light client technology from Celo Blockchain that runs a full node on the cell phone.
+
+A great reference of this model of work cited is [Layer3](https://beta.layer3.xyz/) and [Gitcoin](https://gitcoin.co/explorer), which offers a lot of job options paid in crypto.
 
 ### Categories
 To reach a wide range of users from different socioeconomic classes, submissions were divided into 4 simple categories:
@@ -52,14 +55,21 @@ To reach a wide range of users from different socioeconomic classes, submissions
 * **Social:** a category that involves marketing and advertising for these organizations. In-depth knowledge will not be necessary for the purpose of the contest to be achieved. Only with a good follower engagement, the user will be able to help different Web3 companies to spread their message through social networks, whether through an explanatory video on TikTok, an animated story on Instagram or a fun thread on Twitter.
 
 ### Contests
-Are simply contests that organizations from all web3 can create for people to submit. Contests, as the name implies, have a competitive character, ideal for people who know how to perform tasks and gigs very well, but who do not have a good ability to convince.
+Are simply contests that organizations from all web3 can create for people to submit. Contests, as the name implies, have a competitive character, ideal for people who know how to perform tasks and gigs very well, but who do not have a good ability to convince by **speaking**, so now they can convince by **doing**.
 
 Every organization must set for each contest:
 * Deadline
 * Number of prizes
-* Value of price in $CELO
+* Instruction to how perform the work
+* Value of prize in $CELO
 
 ### Projects
+É um tipo de trabalho muito mais completo que precisa de mais habilidade para realizar o objetivo proposto pela a organização, então a recompensa é muito maior. Diferentemente dos concursos, vocÊ primeiro precisa ser aprovado pela organização para submeter o seu trabalho
+
+Every organization must set for each project:
+* Deadline
+* Instruction to how perform the work
+* Value of prize in $CELO
 
 ## Technical Statments
 ### Only Paid in Celo
