@@ -1,30 +1,35 @@
 # Purpose
-A design of a platform based on Celo Blockchain focused on change how people will work, constructed for mobile.
+## A design of a platform based on Celo Blockchain focused on change how people will work, constructed for mobile.
 
-# Objective
+![image](https://user-images.githubusercontent.com/73398891/179367397-590d9a38-9b6f-4b47-9f37-98ea1ba2edc8.png)
+
+# Goal
 [A Prototype/Wireframe MVP Example For Social Impact Utilizing The Celo Platform](https://gitcoin.co/issue/29048)
 
 # Prototypes
-Prototypes are divide in two styles, the canonical and the filler. Dentro do Figma, voce pode altera-los facilmente na aba de Flows.
+Prototypes are divide in two styles, the canonical and the filler. Within Figma, you can easily change them in the Flows tab.
 ## Canonical Prototype
-### [Abrir prototipo](https://markdownlivepreview.com/)
+### [Open prototype](https://www.figma.com/proto/7x6rwgFe5h54xAvdTV2zvB/Purpose?node-id=0%3A1&viewport=69%2C229%2C0.08&scaling=scale-down&starting-point-node-id=65%3A1342&show-proto-sidebar=1)
+![Screenshot_6](https://user-images.githubusercontent.com/73398891/179368216-6ad5d46d-7079-488e-9a87-4fe97c03131a.png)
 
-O prototipo canonico mostra a principal funcionalidade do projeto cuja é submeter um trabalho a um concurso. 
+The canonical prototype shows the main functionality of the project which is to submit a work to a contest.
 
-Nesse caminho temos Edward, um usuario que é ótimo em escrever textos. E como ele é um entusiasta da web3, decidiu submeter ao concurso de artigos sobre a historia da Uniswap. Entao nesse prototipo voce vera desde o envio do link ate ao recebimentos dos premios.
+On this screen path we have Edward, a user who is great at writing texts. And as he is a web3 enthusiast, he decided to submit to the Uniswap history article contest. So in this prototype you will see from the sending of the link to the receipt of the prizes.
 
-Por o prototipo ter um caminho a ser seguido, alguns elementos da tela não estão acessiveis nesse modo, apenas no proximo, que é o Filler.
+Because the prototype has a path to follow, some screen elements are not accessible in this mode, only in the next one, which is Filler.
 
 ## Filler Prototype
-### [Abrir prototipo](https://markdownlivepreview.com/)
-Esse modo é completamente exploravel e livre. Voce pode navegar entre todos os cards, botoes do menu, organizações, projetos, concursos, perfil e entre outras sessões do aplicativo.
+### [Open prototype](https://www.figma.com/proto/7x6rwgFe5h54xAvdTV2zvB/Purpose?node-id=0%3A1&viewport=69%2C229%2C0.08&scaling=scale-down&starting-point-node-id=49%3A2559&show-proto-sidebar=1)
+![Screenshot_5](https://user-images.githubusercontent.com/73398891/179368213-6cf2fa5b-b6a3-4be2-85d4-7ac8550744b5.png)
 
-O Filler se diferencia do Canonical pelos botoes de submissao e aplicacao, quando aperta-los verá que não funcionam. Essa separação foi feita devido as limitações que temos hoje nas ferramentas de prototipagem, como o Figma.
+This mode is completely explorable and free. You can browse all cards, menu buttons, organizations, projects, contests, profile and among other sections of the application.
+
+The Filler differs from Canonical by the submission and application buttons, when you press them you will see that they do not work. This separation was made due to the limitations that we have today in prototyping tools, such as Figma.
 
 # User Experience
-Como pedido no issue, era preciso fazer um protótipo/wireframe de exemplo para um impacto social utilizando a plataforma da Celo.
+As requested in the issue, it was necessary to make an example prototype/wireframe for a social impact using Celo's platform.
 
-Apesar de o "prototipo/wireframe" vir primeiro na headline do issue, precisamos começar o projeto pelo "impacto social", tendo assim um estilo de design centrado ao humano.
+And although the "prototype/wireframe" comes first in the issue's headline text, we need to start the project thinking first on the "social impact", thus having a real human-centered design style.
 ## Problem
 Como citado nas paginas institucionais da Celo, 1 a cada 3 pessoas no mundo nao possuem banco, e isso causa um grande problema economico no mundo todo.
 
@@ -37,15 +42,25 @@ Ou seja, as finanças decentralizadas vieram como uma otima solucao de como movi
 Foi criado a Purpose,
 
 Uma ótima referencia desse modelo citado é a Layer3 e o Gitcoin, que oferecem diversos gigs para seus usuarios em troca de criptomoedas.
+The categories are: 
+* Building: para aqueles que sabem programar e possuem a capacidade de satisfazer necessidades de engenharia e construção que diversos protocolos pela web3 irão pedir. Um bom entendimento em contratos inteligentes e entre outros conhecimentos de blockchain são necessários para essa categoria.
+* Design: para aqueles que entendem como projetar e montar interfaces, gráficos, protótipos, projeções que organizações por toda blockchain precisam. Sendo necessário um conhecimento em softwares de design como Illustrator, Photoshop, Figma e entre outros.
+* Writing: para qualquer tipo de pessoa que saiba expressar bem e criar um conteúdo didático em sua fala. Essa categoria tem como alvo principal os usuários underbanked
+* Social
+
+### Contests
+Are simply contests that organizations from all web3 can 
+
+### Projects
 
 ## Technical Statments
 ### Only Paid in Celo
-A grande diferença da Purpose é que todas as recompensas são pagas em $CELO, ao criar um concurso ou um projeto, a organização poderá submeter o valor dos premios normalmente na sua criptomoeda, porém para commitar o concurso ou projeto na plataforma, esse valor deverá ser convertido em $CELO.
+The big difference from Purpose is that all rewards are paid in $CELO, when creating a contest or project, the organization can submit the value of the prizes normally on its own cryptocurrency, but to commit the contest or project on the platform, this value must be converted to $CELO first (MOOLA or Ubeswap API can be easily used at building).
 
-Dessa forma a plataforma irá concentrar uma grande liquidez e garantir um valor staked ao token da Celo.
+In this way, the platform will concentrate a great deal of liquidity and guarantee a staked value to the Celo token.
 
 ### Ranking
-For each contest or project approved the user earn experience on the plataform too, as it powered by Celo, we will use the rank system from the Guild.
+For each contest or project approved the user earns experience on the platform too, as it is powered by Celo, we will use the rank system from the Guild.
 
 1. Baby Bonsai
 1. Wood Wide Web
@@ -54,22 +69,22 @@ For each contest or project approved the user earn experience on the plataform t
 
 ### Submission Showing
 
-Os links de submissoes sao mostrados apenas apos a expiraçao do prazo, para preservar o espirito competitivo da plataforma.
-
+Submission links are only shown after the deadline, to preserve the competitive spirit of the platform.
 # User Interface
+
+## [Open Figma File](https://www.figma.com/community/file/1130205945613382682)
+As GitHub is not a site focused on interface visualization, for a better analysis of the screens, Figma is highly recommended, because there, in addition to being able to run the prototypes in the best quality, you can observe details. Furthermore, the design is completely open, so you can also fork the interface for any other project.
+
 ## Onboarding
-The main reception explaining the app to the users with a splashcreen too.
 
 ![onboarding](https://user-images.githubusercontent.com/73398891/179365029-319f3029-e84e-4023-9844-453a1df1b7a6.gif)
 
 ## Home
-Main screen of the app where you can check recommendations and categories for you.
 
 ![home](https://user-images.githubusercontent.com/73398891/179365231-89aaa84d-054b-45fa-9dd1-34f5d617c687.gif)
 
 ## Contests
 ### Main
-
 ![contests](https://user-images.githubusercontent.com/73398891/179365345-ff65cc2f-b8a3-4dd6-bb3d-9ae38e0562c2.gif)
 
 ### Intern Pages
@@ -83,10 +98,10 @@ Main screen of the app where you can check recommendations and categories for yo
 <img width="375" alt="image" src="https://user-images.githubusercontent.com/73398891/179365455-8f1c6959-b60b-455d-ba9c-962ad70b542e.png">
 
 ## Profile
-### Before
+### Default
 ![before](https://user-images.githubusercontent.com/73398891/179365802-198852b5-fe3c-4f4f-ac8f-58eb8aba407e.gif)
 
-### After
+### Level Up
 ![after](https://user-images.githubusercontent.com/73398891/179365798-de89d404-3bff-40d1-9909-1313ad866c44.gif)
 
 ## Organizations
