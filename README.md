@@ -56,3 +56,4 @@ For each contest or project approved the user earn experience on the plataform t
 Os links de submissoes sao mostrados apenas apos a expiraçao do prazo, para preservar o espirito competitivo da plataforma.
 
 # User Interface
+![2022-07-16_13-39-49_AdobeExpress](https://user-images.githubusercontent.com/73398891/179364507-264cf51a-2cce-4b7f-8529-37c187288959.gif)
